@@ -1,6 +1,4 @@
-# ITECT 116 - Laboratory Activity
-
-# Activity 1: - To-Do List API + UI
+# ITECT 116 - Laboratory Activity - (Activity 1: - To-Do List API + UI)
 
 ### NOTE (FOR CONTRIBUTORS)
 * Always back up your files before pulling from the repository.
