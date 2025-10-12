@@ -1,4 +1,4 @@
-# ITECT 116 - Laboratory Activities
+# ITECT 116 - Laboratory Activity
 
 ### Activity 1: - To-Do List API + UI
 
