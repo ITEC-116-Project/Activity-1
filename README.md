@@ -6,8 +6,6 @@
 * Always back up your files before pulling from the repository.
     * To prevent lost of your new updates.
 
-<br/>
-
 ## Help And Guide ( How to Run React App )
 
 * **VS Code Folder**
