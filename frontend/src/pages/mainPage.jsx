@@ -184,6 +184,7 @@ function MainPage() {
             <input
               type="datetime-local"
               value={taskDate}
+              min={new Date().toISOString().slice(0, 16)}
               onChange={(e) => setTaskDate(e.target.value)}
               className="datetime-input"
             />
@@ -208,6 +209,7 @@ function MainPage() {
                     <input
                       type="datetime-local"
                       value={editingDate}
+                      min={new Date().toISOString().slice(0, 16)}
                       onChange={(e) => setEditingDate(e.target.value)}
                       className="edit-datetime"
                     />
